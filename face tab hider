@@ -27,7 +27,7 @@ while True:
         time.sleep(5)
 
 
-    cv2.imshow('the shier', frame)
+    cv2.imshow('the shitter', frame)
 
     if cv2.waitKey(1)==ord('q'):
         break
